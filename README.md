@@ -5,7 +5,6 @@
 <title>My HomePage</title>
 <style type="text/css">
 
-
 body {
 	background-color:#c4ccdf/*background color*/
 }
